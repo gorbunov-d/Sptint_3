@@ -65,3 +65,4 @@ pytest tests/test_registration.py::TestRegistration::test_successful_registratio
 - Используются явные ожидания вместо неявных
 - Каждый тест заканчивается assert с проверкой результата
 # Sprint_5
+# Sprint_7
